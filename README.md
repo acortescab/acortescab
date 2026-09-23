@@ -1,4 +1,4 @@
-## Hi there, I'Alejandro 👋
+## Hi there, I'm Alejandro 👋
 
 I'm a Software Engineer with 9+ years of experience building software across the gaming, backend and cloud domains.
 I'm currently expanding my expertise into AI Engineering, focusing on building practical AI-powered applications and strengthening my skills in Python, APIs, cloud infrastructure and modern AI tooling.

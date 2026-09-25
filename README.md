@@ -8,6 +8,7 @@ I'm currently expanding my expertise into AI Engineering, focusing on building p
 - Python
 - C#
 - FastAPI
+- Flask
 - UnityEngine
 ### Cloud & Infrastructure
 - AWS
